@@ -20,4 +20,4 @@ input.onButtonPressed(Button.A, function () {
     pause(1000)
     basic.clearScreen()
     basic.showIcon(IconNames.Happy)
-})
+}) 
